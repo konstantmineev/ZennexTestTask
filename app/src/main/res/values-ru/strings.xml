@@ -31,4 +31,5 @@
     <string name="new_title_was_not_saved">Новый заголовок не был сохранён</string>
     <string name="save">Сохранить</string>
     <string name="save_title_question">Созранить заголовок?</string>
+    <string name="loading">Загрузка.....</string>
 </resources>

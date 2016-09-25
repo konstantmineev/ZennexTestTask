@@ -75,7 +75,7 @@ public class ParsingFragment extends Fragment {
         isAllarmDialogShow = false;
 
         progressDialog = new ProgressDialog(getActivity());
-        progressDialog.setMessage("Loading.....");
+        progressDialog.setMessage(getResources().getString(R.string.loading));
         progressDialog.setCancelable(false);
 
         return view;
